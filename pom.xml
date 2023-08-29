@@ -11,10 +11,11 @@
 	<groupId>bankers.fisa</groupId>
 	<artifactId>bankers-actuator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>bankers-actuator</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
